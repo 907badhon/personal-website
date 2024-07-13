@@ -1,0 +1,94 @@
+body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    margin: 0%;
+}
+.section-1{
+    width: 40%;
+    margin: 3%;
+    padding: 1%;
+    float: left;
+    
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+.section-1 h1{
+    font-size: 30px;
+    color: rgba(105, 136, 192, 0.863);
+}
+.section-1 h2{
+    font-weight: 300;
+}
+section{
+    height: 500px;
+    padding-bottom: 1%;
+}
+.header{
+    background-image: url(personal-website/header-bg.png);
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(56deg ,lightsalmon, rgba(255, 206, 71, 0.582) ); 
+    padding: 10px 20px;
+    border-radius: 15%;
+    color: white;
+    font-weight: bold;
+}
+.biography-style{
+    font-size: 40px;
+}
+.middle-part{
+    background-image: url(personal-website/biography-bg.png);
+    height: 500px;
+    background-repeat: no-repeat;
+}
+.latest-work-header{
+    text-align: center;
+    font-size: 40px;
+    color: rgba(103, 149, 161, 0.808);
+}
+.latest-work-pic{
+    width: 25%;
+    float: left;
+    margin: 3%;
+    padding: 1%;
+    box-shadow: 10px 10px 100px green ;
+}
+.latest-work-{
+    background-image: url(personal-website/latest-work-bg.png);
+    height: 500px;
+    background-repeat: no-repeat;
+}
+.footer-work{
+    text-align: center;
+    margin: 10%;
+    background-image: url(personal-website/footer-bg.png);
+    background-repeat: no-repeat;
+}
+#footer-p-style{
+    color: rgb(81, 44, 114);
+    font-size: 8px;
+}
+.footer-div{
+    background-color: rgb(126, 92, 158);
+    padding: 2%;
+    margin: 15%;
+    border-radius: 3%;
+
+    color: white;
+    margin-top: 8%;
+}
+.footer-div h1{
+    font-size: 25px;
+}
+.footer-div p{
+    font-size: 14px;
+}
+#the-end{
+    text-align: center;
+}
